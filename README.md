@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Siddu  
 
-<!--
-**SIDDARTHAREDDY8/SIDDARTHAREDDY8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Siddu waving" width="250px" src="https://github.com/SIDDARTHAREDDY8/SIDDARTHAREDDY8/blob/main/siddu_wave.gif" />
 
-Here are some ideas to get you started:
+💡 A passionate **Data Science & AI enthusiast** from University of Cincinnati  
+🎯 Actively looking for **Data Scientist / Machine Learning Engineer** roles  
+🌱 Currently building projects in **ML, MLOps, and Real-time Dashboards**  
+⚡ Love working on **end-to-end AI systems**: from data pipelines to deployment  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Tools  
+- **Languages**: Python, SQL, C, Java  
+- **Data Science**: Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow  
+- **Visualization**: Matplotlib, Plotly, Power BI, Tableau  
+- **Cloud**: Azure, AWS  
+- **Other**: Git, Streamlit, Docker  
+
+---
+
+## 🚀 Projects  
+- 🛑 [**Customer Churn Prediction App**](https://customer-churn.streamlit.app) – End-to-end ML app with single & batch predictions, SHAP explainability, and insights tab  
+- 📊 [**Real-Time Crypto Dashboard**](https://crypto-dashboard-sc4mvcgcwsaqkpddgumnlw.streamlit.app) – Interactive dashboard with live prices, technical indicators & alerts  
+- 📑 [**Resume Screening System (NLP)**](#) – Hybrid recommender using TF-IDF + collaborative filtering  
+- 📡 [**AI Placement Prep Assistant (Crack Campus)**](#) – Mock interviews, quizzes, and resume feedback  
+
+---
+
+## 📫 Connect with me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/siddarthareddy9)  
+- 📧 [Email](mailto:chinthst@mail.uc.edu)  
+- 🌐 [Portfolio / GitHub Projects](https://github.com/SIDDARTHAREDDY8)  
+
+---
+
+⭐️ _“Turning data into impact.”_
