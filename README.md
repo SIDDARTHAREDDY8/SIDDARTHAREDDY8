@@ -5,7 +5,6 @@
 
 <br/>
 
-<!-- Social badges -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-siddarthareddy.com-7AA6D0?style=for-the-badge)](https://siddarthareddy.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-siddarthareddy9-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddarthareddy9/)
 [![Email](https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddarthareddychinthala@gmail.com)
@@ -50,13 +49,17 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SIDDARTHAREDDY8&show_icons=true&theme=dark&bg_color=060e1c&border_color=1e2d4d&title_color=7AA6D0&icon_color=7AA6D0&text_color=cfe0f2&count_private=true&hide_border=false" />
+<img src="https://github-profile-trophy.vercel.app/?username=SIDDARTHAREDDY8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
+
+<br/><br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SIDDARTHAREDDY8&theme=tokyonight" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDARTHAREDDY8&layout=compact&theme=dark&bg_color=060e1c&border_color=1e2d4d&title_color=7AA6D0&text_color=cfe0f2&hide_border=false&langs_count=6" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SIDDARTHAREDDY8&theme=tokyonight" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDARTHAREDDY8&theme=tokyonight&background=060e1c&border=1e2d4d&ring=7AA6D0&fire=4d85b6&currStreakLabel=cfe0f2&sideLabels=cfe0f2&sideNums=7AA6D0&currStreakNum=eaf2fb&dates=7aa6d0" />
+<img src="https://streak-stats.demolab.com/?user=SIDDARTHAREDDY8&theme=tokyonight&background=060e1c&border=1e2d4d&ring=7AA6D0&fire=4d85b6&currStreakLabel=cfe0f2&sideLabels=cfe0f2&sideNums=7AA6D0&currStreakNum=eaf2fb&dates=7aa6d0" />
 
 </div>
 
