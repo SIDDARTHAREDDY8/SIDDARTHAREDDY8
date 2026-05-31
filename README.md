@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="https://siddarthareddy.com" target="_blank"><strong>Portfolio</strong></a>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:siddarthareddychinthala@gmail.com"><strong>siddarthareddychinthala8@gmail.com</strong></a>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:siddarthareddychinthala@gmail.com"><strong>siddarthareddychinthala@gmail.com</strong></a>
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medal Emoji" width="25px" align="center" /> Currently a <strong>Software Engineer Intern @ DXC Technology</strong> & MS CS student at <strong>University of Cincinnati</strong>
