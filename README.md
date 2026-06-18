@@ -4,7 +4,7 @@
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-  Hi, I'm <a href="https://siddarthareddy.com">Siddartha</a>!
+  Hi, I'm <a href="https://siddarthareddy.com">Siddartha Reddy</a>!
   <img align="right" src="https://komarev.com/ghpvc/?username=SIDDARTHAREDDY8" alt="GitHub profile views counter">
 </h1>
 
@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:siddarthareddychinthala@gmail.com"><strong>siddarthareddychinthala@gmail.com</strong></a>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medal Emoji" width="25px" align="center" /> Currently a <strong>Software Engineer Intern @ DXC Technology</strong> & MS CS student at <strong>University of Cincinnati</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medal Emoji" width="25px" align="center" /> Currently a <strong>Software Engineer Intern @ Airtrek Robotics </strong> & MS CS student at <strong>University of Cincinnati</strong>
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Orchestrating AI agents and LLM pipelines to build proactive, intelligent user experiences.
