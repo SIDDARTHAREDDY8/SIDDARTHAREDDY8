@@ -1,6 +1,6 @@
 # Hi, I'm Siddartha Reddy 👋
 
-**Software Engineer @ AirTrek Robotics** — I build the perception stack (computer vision + LiDAR) for GroundWatch, autonomous wingwalking robots for aircraft ground operations. MEng CS @ University of Cincinnati.
+**AI Software Engineer @ AirTrek Robotics** — I build the perception stack (computer vision + LiDAR) for GroundWatch, autonomous wingwalking robots for aircraft ground operations. MEng CS @ University of Cincinnati.
 
 ### What I'm doing now
 
