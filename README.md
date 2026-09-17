@@ -6,7 +6,22 @@
 
 - 🤖 Shipping robot perception that has to work on real tarmacs, not just datasets
 - ✍️ Writing daily about AI news, tools, and what they actually mean — [LinkedIn](https://linkedin.com/in/siddarthareddy9) · [X](https://x.com/siddart25785742)
-- 🌱 Contributing to open source every day — latest: [MCP pagination fix in open-webui](https://github.com/open-webui/open-webui/pull/29912)
+- 🌱 Contributing to open source every day — [merged & in-review work ↓](#open-source-contributions)
+
+### Open Source Contributions
+
+**Merged**
+- [microsoft/onnxruntime#32588](https://github.com/microsoft/onnxruntime/pull/32588) — moved `kCutlassSafeMaskFilterValue` outside `USE_MEMORY_EFFICIENT_ATTENTION`
+- [tracel-ai/burn#5664](https://github.com/tracel-ai/burn/pull/5664) — fixed burn-store's PyTorch reader dropping tensors stored inside lists
+- [dora-rs/dora#3515](https://github.com/dora-rs/dora/pull/3515) — credited contributor: flagged edge cases in `dora new` name validation, implemented and merged with credit
+
+**Under review**
+- [BerriAI/litellm#41613](https://github.com/BerriAI/litellm/pull/41613) — regression tests for deployment-scoped pricing on the logging thread
+- [vllm-project/vllm#57390](https://github.com/vllm-project/vllm/pull/57390) — `--fingerprint-mode=none` no longer emits `system_fingerprint: null` in non-streaming responses
+- [weaviate/weaviate#13122](https://github.com/weaviate/weaviate/pull/13122) — wrong-dimension vector adds no longer leave visible HNSW ghost nodes
+- [ollama/ollama#18499](https://github.com/ollama/ollama/pull/18499) — MiniCPM5 native tool-call parsing, streaming, and thinking support
+- [microsoft/onnxruntime#32660](https://github.com/microsoft/onnxruntime/pull/32660) — LayerNormFusion rejects shape-expanding scale/bias
+- [nebius/soperator#2988](https://github.com/nebius/soperator/pull/2988) — dropped literal quotes from scontrol Reason/Comment argv
 
 ### Featured projects
 
