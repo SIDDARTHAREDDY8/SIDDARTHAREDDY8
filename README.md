@@ -27,6 +27,7 @@
 
 - **[JobsBuddy](https://github.com/SIDDARTHAREDDY8/JobsBuddy)** — visa-sponsoring tech jobs for international students. Live board scanning 2,384 companies across 9 ATS systems, re-scraped every 3 hours. [Try the live board ↗](https://siddarthareddy8.github.io/JobsBuddy/)
 - **[kisaan-ai](https://github.com/SIDDARTHAREDDY8/kisaan-ai)** — AI advisory platform for Indian smallholder farmers: crop disease diagnosis from leaf photos, live mandi prices, government scheme guidance, soil health scoring, and multilingual voice advisory over WhatsApp.
+- **[ohio-realestate-app](https://github.com/SIDDARTHAREDDY8/ohio-realestate-app)** — Ohio real estate market intelligence platform: interactive dashboards, ML price predictions, county comparisons, and economic indicator correlations on real Census/Redfin/FRED data. Shipped with full CI/CD — build + lint on every PR, automated GitHub Pages deploys, and a monthly scheduled data-refresh pipeline.
 - **Sanchara** — robot fleet update manager: staged rollouts, ROS 2 health gates, auto-halt and rollback. Currently in private development.
 
 ### Tech I reach for
