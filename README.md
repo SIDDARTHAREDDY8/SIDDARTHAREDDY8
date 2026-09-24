@@ -1,12 +1,6 @@
 # Hi, I'm Siddartha Reddy 👋
 
-**AI Software Engineer @ AirTrek Robotics** — I build the perception stack (computer vision + LiDAR) for GroundWatch, autonomous wingwalking robots for aircraft ground operations. MEng CS @ University of Cincinnati.
-
-### What I'm doing now
-
-- 🤖 Shipping robot perception that has to work on real tarmacs, not just datasets
-- ✍️ Writing daily about AI news, tools, and what they actually mean — [LinkedIn](https://linkedin.com/in/siddarthareddy9) · [X](https://x.com/siddart25785742)
-- 🌱 Contributing to open source every day — [merged & in-review work ↓](#open-source-contributions)
+I build AI systems that ship: LLM agents, RAG pipelines, and ML infrastructure. 5 open-source PRs merged into onnxruntime, onnx, burn, dora, and the MCP Rust SDK. MS CS @ University of Cincinnati — open to AI/ML and full-stack roles.
 
 ### Open Source Contributions
 
