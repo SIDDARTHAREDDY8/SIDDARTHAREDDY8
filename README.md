@@ -11,6 +11,9 @@
 ### Open Source Contributions
 
 **Merged**
+- [modelcontextprotocol/rust-sdk#1275](https://github.com/modelcontextprotocol/rust-sdk/pull/1275) — standard-header validation now runs on the initialize path before session creation
+- [onnx/onnx#8473](https://github.com/onnx/onnx/pull/8473) — fixed reversed gradient direction in the TrainingInfoProto comment
+- [dora-rs/dora#3500](https://github.com/dora-rs/dora/pull/3500) — fixed ros2-bridge serializing omitted variable-length sequence fields as non-empty defaults
 - [microsoft/onnxruntime#32588](https://github.com/microsoft/onnxruntime/pull/32588) — moved `kCutlassSafeMaskFilterValue` outside `USE_MEMORY_EFFICIENT_ATTENTION`
 - [tracel-ai/burn#5664](https://github.com/tracel-ai/burn/pull/5664) — fixed burn-store's PyTorch reader dropping tensors stored inside lists
 - [dora-rs/dora#3515](https://github.com/dora-rs/dora/pull/3515) — credited contributor: flagged edge cases in `dora new` name validation, implemented and merged with credit
