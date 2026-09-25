@@ -1,10 +1,11 @@
 # Hi, I'm Siddartha Reddy 👋
 
-I build AI systems that ship: LLM agents, RAG pipelines, and ML infrastructure. 5 open-source PRs merged into onnxruntime, onnx, burn, dora, and the MCP Rust SDK. MS CS @ University of Cincinnati — open to AI/ML and full-stack roles.
+I build AI systems that ship: LLM agents, RAG pipelines, and ML infrastructure. 6 open-source PRs merged into onnxruntime, onnx, burn, dora, vLLM, and the MCP Rust SDK. MS CS @ University of Cincinnati — open to AI/ML and full-stack roles.
 
 ### Open Source Contributions
 
 **Merged**
+- [vllm-project/vllm#57743](https://github.com/vllm-project/vllm/pull/57743) — reject `json_object` at validation in the outlines grammar backend
 - [modelcontextprotocol/rust-sdk#1275](https://github.com/modelcontextprotocol/rust-sdk/pull/1275) — standard-header validation now runs on the initialize path before session creation
 - [onnx/onnx#8473](https://github.com/onnx/onnx/pull/8473) — fixed reversed gradient direction in the TrainingInfoProto comment
 - [dora-rs/dora#3500](https://github.com/dora-rs/dora/pull/3500) — fixed ros2-bridge serializing omitted variable-length sequence fields as non-empty defaults
