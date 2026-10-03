@@ -1,6 +1,6 @@
 # Hi, I'm Siddartha Reddy 👋
 
-I build AI systems that ship: LLM agents, RAG pipelines, and ML infrastructure. 7 open-source PRs merged into onnxruntime, onnx, burn, dora, vLLM, axolotl, and the MCP Rust SDK. MS CS @ University of Cincinnati — open to AI/ML and full-stack roles.
+I build AI systems that ship: LLM agents, RAG pipelines, and ML infrastructure. 8 open-source PRs merged into onnxruntime, onnx, burn, dora, vLLM, axolotl, inspect-robots, and the MCP Rust SDK. MS CS @ University of Cincinnati — open to AI/ML and full-stack roles.
 
 ### Open Source Contributions
 
@@ -13,6 +13,7 @@ I build AI systems that ship: LLM agents, RAG pipelines, and ML infrastructure. 
 - [tracel-ai/burn#5664](https://github.com/tracel-ai/burn/pull/5664) — fixed burn-store's PyTorch reader dropping tensors stored inside lists
 - [axolotl-ai-cloud/axolotl#4048](https://github.com/axolotl-ai-cloud/axolotl/pull/4048) — fixed `axolotl train` rejecting HTTPS config URLs the CLI docs say are supported
 - [dora-rs/dora#3515](https://github.com/dora-rs/dora/pull/3515) — credited contributor: flagged edge cases in `dora new` name validation, implemented and merged with credit
+- [robocurve/inspect-robots#450](https://github.com/robocurve/inspect-robots/pull/450) — warn when no scene completed cleanly instead of reporting a silent success
 
 ### Tech I reach for
 
