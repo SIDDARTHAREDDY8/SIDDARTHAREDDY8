@@ -1,6 +1,12 @@
 # Hi, I'm Siddartha Reddy 👋
 
-I build AI systems that ship: LLM agents, RAG pipelines, and ML infrastructure. 8 open-source PRs merged into onnxruntime, onnx, burn, dora, vLLM, axolotl, inspect-robots, and the MCP Rust SDK. MS CS @ University of Cincinnati — open to AI/ML and full-stack roles.
+I build AI systems that ship: LLM agents, RAG pipelines, and ML infrastructure.
+
+🎯 **Mission:** 50 meaningful open-source PRs merged by end of 2026 — currently **8/50**. Every PR fixes a real bug: silent correctness failures, concurrency bugs, memory leaks, broken edge cases — with a reproduction and a regression test.
+
+**8 merged** into onnxruntime, onnx, burn, dora, vLLM, axolotl, inspect-robots, and the MCP Rust SDK. 17 more open across vLLM, SGLang, Ray, LangChain, Polars, Milvus, LiteLLM, Chatwoot, Svix, SigNoz.
+
+MS CS @ University of Cincinnati — open to AI/ML and full-stack roles.
 
 ### Open Source Contributions
 
@@ -10,7 +16,7 @@ I build AI systems that ship: LLM agents, RAG pipelines, and ML infrastructure. 
 - [onnx/onnx#8473](https://github.com/onnx/onnx/pull/8473) — fixed reversed gradient direction in the TrainingInfoProto comment
 - [dora-rs/dora#3500](https://github.com/dora-rs/dora/pull/3500) — fixed ros2-bridge serializing omitted variable-length sequence fields as non-empty defaults
 - [microsoft/onnxruntime#32588](https://github.com/microsoft/onnxruntime/pull/32588) — moved `kCutlassSafeMaskFilterValue` outside `USE_MEMORY_EFFICIENT_ATTENTION`
-- [tracel-ai/burn#5664](https://github.com/tracel-ai/burn/pull/5664) — fixed burn-store's PyTorch reader dropping tensors stored inside lists
+- [tracel-ai/burn/pull/5664](https://github.com/tracel-ai/burn#5664) — fixed burn-store's PyTorch reader dropping tensors stored inside lists
 - [axolotl-ai-cloud/axolotl#4048](https://github.com/axolotl-ai-cloud/axolotl/pull/4048) — fixed `axolotl train` rejecting HTTPS config URLs the CLI docs say are supported
 - [dora-rs/dora#3515](https://github.com/dora-rs/dora/pull/3515) — credited contributor: flagged edge cases in `dora new` name validation, implemented and merged with credit
 - [robocurve/inspect-robots#450](https://github.com/robocurve/inspect-robots/pull/450) — warn when no scene completed cleanly instead of reporting a silent success
