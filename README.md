@@ -2,10 +2,6 @@
 
 I build AI systems that ship: LLM agents, RAG pipelines, and ML infrastructure.
 
-🎯 **Mission:** 50 meaningful open-source PRs merged by end of 2026 — currently **9/50**. Every PR fixes a real bug: silent correctness failures, concurrency bugs, memory leaks, broken edge cases — with a reproduction and a regression test.
-
-**9 merged** into onnxruntime, onnx, burn, dora, vLLM, axolotl, inspect-robots, llama.cpp, and the MCP Rust SDK. 17 more open across vLLM, SGLang, Ray, LangChain, Polars, Milvus, LiteLLM, Chatwoot, Svix, SigNoz.
-
 MS CS @ University of Cincinnati — open to AI/ML and full-stack roles.
 
 ### Open Source Contributions
