@@ -2,9 +2,9 @@
 
 I build AI systems that ship: LLM agents, RAG pipelines, and ML infrastructure.
 
-🎯 **Mission:** 50 meaningful open-source PRs merged by end of 2026 — currently **8/50**. Every PR fixes a real bug: silent correctness failures, concurrency bugs, memory leaks, broken edge cases — with a reproduction and a regression test.
+🎯 **Mission:** 50 meaningful open-source PRs merged by end of 2026 — currently **9/50**. Every PR fixes a real bug: silent correctness failures, concurrency bugs, memory leaks, broken edge cases — with a reproduction and a regression test.
 
-**8 merged** into onnxruntime, onnx, burn, dora, vLLM, axolotl, inspect-robots, and the MCP Rust SDK. 17 more open across vLLM, SGLang, Ray, LangChain, Polars, Milvus, LiteLLM, Chatwoot, Svix, SigNoz.
+**9 merged** into onnxruntime, onnx, burn, dora, vLLM, axolotl, inspect-robots, llama.cpp, and the MCP Rust SDK. 17 more open across vLLM, SGLang, Ray, LangChain, Polars, Milvus, LiteLLM, Chatwoot, Svix, SigNoz.
 
 MS CS @ University of Cincinnati — open to AI/ML and full-stack roles.
 
@@ -20,6 +20,7 @@ MS CS @ University of Cincinnati — open to AI/ML and full-stack roles.
 - [axolotl-ai-cloud/axolotl#4048](https://github.com/axolotl-ai-cloud/axolotl/pull/4048) — fixed `axolotl train` rejecting HTTPS config URLs the CLI docs say are supported
 - [dora-rs/dora#3515](https://github.com/dora-rs/dora/pull/3515) — credited contributor: flagged edge cases in `dora new` name validation, implemented and merged with credit
 - [robocurve/inspect-robots#450](https://github.com/robocurve/inspect-robots/pull/450) — warn when no scene completed cleanly instead of reporting a silent success
+- [ggml-org/llama.cpp#29179](https://github.com/ggml-org/llama.cpp/pull/29179) — guard `speaker_encoder_config` patch for the CustomVoice variant in qwen3tts
 
 ### Tech I reach for
 
