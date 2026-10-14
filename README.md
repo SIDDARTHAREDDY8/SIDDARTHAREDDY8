@@ -17,6 +17,9 @@ MS CS @ University of Cincinnati — open to AI/ML and full-stack roles.
 - [dora-rs/dora#3515](https://github.com/dora-rs/dora/pull/3515) — credited contributor: flagged edge cases in `dora new` name validation, implemented and merged with credit
 - [robocurve/inspect-robots#450](https://github.com/robocurve/inspect-robots/pull/450) — warn when no scene completed cleanly instead of reporting a silent success
 - [ggml-org/llama.cpp#29179](https://github.com/ggml-org/llama.cpp/pull/29179) — guard `speaker_encoder_config` patch for the CustomVoice variant in qwen3tts
+- [hashgraph-online/awesome-ai-plugins#725](https://github.com/hashgraph-online/awesome-ai-plugins/pull/725) — added DHP (Durable Handoff Protocol) to the community plugins registry
+- [crewAIInc/crewAI#8031](https://github.com/crewAIInc/crewAI/pull/8031) — fixed `crewai test` misaligning evaluation rows when the iteration count is not three
+- [lancedb/lancedb#4323](https://github.com/lancedb/lancedb/pull/4323) — let `lancedb.blob()` set blob tier thresholds in the Python and Rust APIs
 
 ### Tech I reach for
 
