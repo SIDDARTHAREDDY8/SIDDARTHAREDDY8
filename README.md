@@ -20,6 +20,7 @@ MS CS @ University of Cincinnati — open to AI/ML and full-stack roles.
 - [hashgraph-online/awesome-ai-plugins#725](https://github.com/hashgraph-online/awesome-ai-plugins/pull/725) — added DHP (Durable Handoff Protocol) to the community plugins registry
 - [crewAIInc/crewAI#8031](https://github.com/crewAIInc/crewAI/pull/8031) — fixed `crewai test` misaligning evaluation rows when the iteration count is not three
 - [lancedb/lancedb#4323](https://github.com/lancedb/lancedb/pull/4323) — let `lancedb.blob()` set blob tier thresholds in the Python and Rust APIs
+- [wasp-lang/wasp#4903](https://github.com/wasp-lang/wasp/pull/4903) — validate the raw project name in `wasp new` so invalid names are rejected before scaffolding (fixes #4763)
 
 ### Tech I reach for
 
