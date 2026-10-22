@@ -7,6 +7,9 @@ MS CS @ University of Cincinnati — open to AI/ML and full-stack roles.
 ### Open Source Contributions
 
 **Merged**
+- [lancedb/lancedb#4233](https://github.com/lancedb/lancedb/pull/4233) — gate remote job error construction behind the `remote` feature so lancedb builds without it
+- [vllm-project/vllm#61090](https://github.com/vllm-project/vllm/pull/61090) — catch `OSError` from torchcodec's native lib load so `vllm serve` starts instead of crashing
+- [unslothai/unsloth#13748](https://github.com/unslothai/unsloth/pull/13748) — credited contributor: merged for contributor credit, code changes not taken
 - [vllm-project/vllm#57743](https://github.com/vllm-project/vllm/pull/57743) — reject `json_object` at validation in the outlines grammar backend
 - [modelcontextprotocol/rust-sdk#1275](https://github.com/modelcontextprotocol/rust-sdk/pull/1275) — standard-header validation now runs on the initialize path before session creation
 - [onnx/onnx#8473](https://github.com/onnx/onnx/pull/8473) — fixed reversed gradient direction in the TrainingInfoProto comment
