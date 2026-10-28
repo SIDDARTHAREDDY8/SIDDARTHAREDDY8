@@ -7,6 +7,8 @@ MS CS @ University of Cincinnati — open to AI/ML and full-stack roles.
 ### Open Source Contributions
 
 **Merged**
+- [realsenseai/librealsense#15865](https://github.com/realsenseai/librealsense/pull/15865) — parse advanced-mode JSON floats with the classic locale so comma-decimal locales no longer truncate fractional values
+- [onnx/onnx#8486](https://github.com/onnx/onnx/pull/8486) — fix Slice shape inference aborting the process (SIGABRT)
 - [lancedb/lancedb#4233](https://github.com/lancedb/lancedb/pull/4233) — gate remote job error construction behind the `remote` feature so lancedb builds without it
 - [vllm-project/vllm#61090](https://github.com/vllm-project/vllm/pull/61090) — catch `OSError` from torchcodec's native lib load so `vllm serve` starts instead of crashing
 - [unslothai/unsloth#13748](https://github.com/unslothai/unsloth/pull/13748) — credited contributor: merged for contributor credit, code changes not taken
