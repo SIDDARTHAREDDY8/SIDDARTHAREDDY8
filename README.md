@@ -1,9 +1,5 @@
 # Hi, I'm Siddartha Reddy 👋
 
-I build AI systems that ship: LLM agents, RAG pipelines, and ML infrastructure.
-
-MS CS @ University of Cincinnati — open to AI/ML and full-stack roles.
-
 ### Open Source Contributions
 
 **Merged**
